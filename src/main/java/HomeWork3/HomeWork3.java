@@ -59,9 +59,6 @@ public class HomeWork3 {
             }
         }
 
-
-
-
         private static void twoArray ( int len, int initialValue){
             int[] arr = new int[len];
             for (int i = 0; i < len; i++) {
